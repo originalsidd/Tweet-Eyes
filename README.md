@@ -1,2 +1,1 @@
-# Tweet-Eyes
-The Decentralized Analyser 
+Tweet-eyes is a project which aims at extracting the tweets and analysing it to predict the possible upcoming threats like riots, mob attacks, agitation in society. We have used machine learning to analyse the popular tweets from high risk topics and assigning it a threat level. This threat level will help to stop the possible national threats and agitations. Common public and police can use the threat level to be prepared for the forthcomings which can save lives and property. We will notify the general public when the threat level reaches ultra high.
