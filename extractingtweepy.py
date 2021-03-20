@@ -6,6 +6,7 @@
 import pandas as pd 
 import tweepy
   
+tweet_ml_data={}
   
 # function to display data of each tweet 
 def printtweetdata(n, ith_tweet): 
