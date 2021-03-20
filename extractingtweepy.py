@@ -10,7 +10,7 @@ tweet_ml_data={}
   
 # function to display data of each tweet 
 def printtweetdata(n, ith_tweet): 
-    tweet_ml_data[ith_tweet[0]]=[ith_tweet[7],'']
+    tweet_ml_data[ith_tweet[0]]=[ith_tweet[7],ith_tweet[2],'']
 ##    print() 
 ##    print(f"Tweet {n}:") 
 ##    print(f"Username:{ith_tweet[0]}") 
